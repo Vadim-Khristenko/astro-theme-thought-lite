@@ -14,6 +14,7 @@
         <small><a href="README.md">English</a></small>
         <small><a href="README.zh-cn.md">简体中文</a></small>
         <small><ins>日本語</ins></small>
+        <small><a href="README.ru.md">Русский</a></small>
     </p>
 </div>
 
