@@ -126,7 +126,7 @@ pnpm install
 - Помогите распространять проект или помогите другим пользователям
 - Сообщайте об [ошибках](https://github.com/tuyuritio/astro-theme-thought-lite/issues) или предлагайте улучшения
 - Улучшайте документацию или помогайте с переводами (i18n)
-- Вносите код — см. [CONTRIBUTING.md](CONTRIBUTING.md) для деталей
+- Вносите код — см. [CONTRIBUTING.ru.md](CONTRIBUTING.ru.md) для деталей
 
 ## 🙏 Благодарности
 
